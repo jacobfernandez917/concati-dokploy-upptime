@@ -1,7 +1,7 @@
-url: http://52.76.231.243:5003
-status: down
-code: 400
-responseTime: 421
-lastUpdated: 2025-05-05T01:52:43.145Z
+url: https://917v-device-authentication-api.mahiraya.com:5003
+status: up
+code: 200
+responseTime: 793
+lastUpdated: 2025-05-05T02:16:05.934Z
 startTime: 2025-05-05T01:52:41.879Z
 generator: Upptime <https://github.com/upptime/upptime>
