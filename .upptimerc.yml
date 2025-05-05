@@ -8,9 +8,41 @@ sites:
   - name: OTP + Number Verification
     url: http://52.76.231.243:5001
   - name: Device Authentication API
-    url: http://52.76.231.243:5003
+    url: https://917v-device-authentication-api.mahiraya.com:5003
   - name: Device Authentication Frontend
-    url: http://52.76.231.243:5005
+    url: https://917v-device-authentication-frontend.mahiraya.com:5005
+  - name: Device Swap
+    url: http://52.76.231.243:5006
+  - name: Device Status
+    url: http://52.76.231.243:5007
+  - name: Quality on Demand
+    url: http://52.76.231.243:5009
+  - name: Location Insights
+    url: http://52.76.231.243:5010
+  - name: Fraudster MSISDN Check
+    url: http://52.76.231.243:10011
+  - name: Fraudster MSISDN Submission
+    url: http://52.76.231.243:10012
+  - name: Fraudster Bulk Reporting
+    url: http://52.76.231.243:10013
+  - name: Fraudster Spam Number Verification
+    url: http://52.76.231.243:10014
+  - name: Fraudster Blacklist History
+    url: http://52.76.231.243:10015
+  - name: Fraudster Investigation Feedback
+    url: http://52.76.231.243:10016
+  - name: Fraudster Fake Identity Detection
+    url: http://52.76.231.243:10017
+  - name: Fraudster Email Identification 
+    url: http://52.76.231.243:10018
+  - name: GeoScores API
+    url: http://52.76.231.243:10020
+  - name: GeoScores Frontend
+    url: http://52.76.231.243:10021
+  - name: Proto SMS Shield API
+    url: http://52.76.231.243:10022
+  - name: Proto SMS Shield Streamlit
+    url: http://52.76.231.243:10023
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
