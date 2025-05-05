@@ -40,7 +40,8 @@ sites:
   - name: GeoScores Frontend
     url: http://52.76.231.243:10021
   - name: Proto SMS Shield API
-    url: http://52.76.231.243:10022
+    url: http://52.76.231.243:10022/health
+    method: GET
   - name: Proto SMS Shield Streamlit
     url: http://52.76.231.243:10023
 
