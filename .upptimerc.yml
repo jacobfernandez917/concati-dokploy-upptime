@@ -3,37 +3,37 @@ owner: jacobfernandez917 # Your GitHub organization or username, where this repo
 repo: concati-dokploy-upptime # The name of this repository
 
 sites:
-  - name: Fraudster Identification
+  - name: Fraudster Identification API
     url: http://52.76.231.243:5000
-  - name: OTP + Number Verification
+  - name: OTP + Number Verification API
     url: http://52.76.231.243:5001
   - name: Device Authentication API
     url: https://917v-device-authentication-api.mahiraya.com:5003
   - name: Device Authentication Frontend
     url: https://917v-device-authentication-frontend.mahiraya.com:5005
-  - name: Device Swap
+  - name: Device Swap API
     url: http://52.76.231.243:5006
-  - name: Device Status
+  - name: Device Status API
     url: http://52.76.231.243:5007
-  - name: Quality on Demand
+  - name: Quality on Demand API
     url: http://52.76.231.243:5009
-  - name: Location Insights
+  - name: Location Insights API
     url: http://52.76.231.243:5010
-  - name: Fraudster MSISDN Check
+  - name: Fraudster MSISDN Check API
     url: http://52.76.231.243:10011
-  - name: Fraudster MSISDN Submission
+  - name: Fraudster MSISDN Submission API
     url: http://52.76.231.243:10012
-  - name: Fraudster Bulk Reporting
+  - name: Fraudster Bulk Reporting API
     url: http://52.76.231.243:10013
-  - name: Fraudster Spam Number Verification
+  - name: Fraudster Spam Number Verification API
     url: http://52.76.231.243:10014
-  - name: Fraudster Blacklist History
+  - name: Fraudster Blacklist History API
     url: http://52.76.231.243:10015
-  - name: Fraudster Investigation Feedback
+  - name: Fraudster Investigation Feedback API
     url: http://52.76.231.243:10016
-  - name: Fraudster Fake Identity Detection
+  - name: Fraudster Fake Identity Detection API
     url: http://52.76.231.243:10017
-  - name: Fraudster Email Identification 
+  - name: Fraudster Email Identification API
     url: http://52.76.231.243:10018
   - name: GeoScores API
     url: http://52.76.231.243:10020
