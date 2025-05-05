@@ -4,55 +4,59 @@
     "url": "http://52.76.231.243:5000",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-identification-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "92.26%",
+    "uptimeDay": "92.26%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.26%",
     "time": 388,
     "timeDay": 388,
     "timeWeek": 388,
     "timeMonth": 388,
     "timeYear": 388,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 27
+    }
   },
   {
     "name": "OTP + Number Verification API",
     "url": "http://52.76.231.243:5001",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "otp-number-verification-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "92.70%",
+    "uptimeDay": "92.70%",
+    "uptimeWeek": "92.70%",
+    "uptimeMonth": "92.70%",
+    "uptimeYear": "92.70%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 26
+    }
   },
   {
     "name": "Device Authentication API",
     "url": "https://917v-device-authentication-api.mahiraya.com:5003",
     "icon": "https://icons.duckduckgo.com/ip3/917v-device-authentication-api.mahiraya.com.ico",
     "slug": "device-authentication-api",
-    "status": "up",
-    "uptime": "53.42%",
-    "uptimeDay": "53.42%",
-    "uptimeWeek": "53.42%",
-    "uptimeMonth": "53.42%",
-    "uptimeYear": "53.42%",
+    "status": "down",
+    "uptime": "87.60%",
+    "uptimeDay": "87.60%",
+    "uptimeWeek": "87.60%",
+    "uptimeMonth": "87.60%",
+    "uptimeYear": "87.60%",
     "time": 690,
     "timeDay": 690,
     "timeWeek": 690,
     "timeMonth": 690,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-05-05": 23
+      "2025-05-05": 48
     }
   },
   {
@@ -60,19 +64,19 @@
     "url": "https://917v-device-authentication-frontend.mahiraya.com:5005",
     "icon": "https://icons.duckduckgo.com/ip3/917v-device-authentication-frontend.mahiraya.com.ico",
     "slug": "device-authentication-frontend",
-    "status": "up",
-    "uptime": "53.35%",
-    "uptimeDay": "53.35%",
-    "uptimeWeek": "53.35%",
-    "uptimeMonth": "53.35%",
-    "uptimeYear": "53.35%",
+    "status": "down",
+    "uptime": "87.72%",
+    "uptimeDay": "87.72%",
+    "uptimeWeek": "87.72%",
+    "uptimeMonth": "87.72%",
+    "uptimeYear": "87.72%",
     "time": 621,
     "timeDay": 621,
     "timeWeek": 621,
     "timeMonth": 621,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-05-05": 23
+      "2025-05-05": 48
     }
   },
   {
@@ -80,18 +84,20 @@
     "url": "http://52.76.231.243:5006",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-swap-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "93.43%",
+    "uptimeDay": "93.43%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "93.43%",
+    "uptimeYear": "93.43%",
     "time": 350,
     "timeDay": 350,
     "timeWeek": 350,
     "timeMonth": 350,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 23
+    }
   },
   {
     "name": "Device Status API",
@@ -99,107 +105,119 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-status-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
     "time": 353,
     "timeDay": 353,
     "timeWeek": 353,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 21
+    }
   },
   {
     "name": "Quality on Demand API",
     "url": "http://52.76.231.243:5009",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "quality-on-demand-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "94.30%",
+    "uptimeDay": "94.30%",
+    "uptimeWeek": "94.30%",
+    "uptimeMonth": "94.30%",
+    "uptimeYear": "94.30%",
     "time": 359,
     "timeDay": 359,
     "timeWeek": 359,
     "timeMonth": 359,
     "timeYear": 359,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 20
+    }
   },
   {
     "name": "Location Insights API",
     "url": "http://52.76.231.243:5010",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "location-insights-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "94.74%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "94.74%",
+    "uptimeYear": "94.74%",
     "time": 358,
     "timeDay": 358,
     "timeWeek": 358,
     "timeMonth": 358,
     "timeYear": 358,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 18
+    }
   },
   {
     "name": "Fraudster MSISDN Check API",
     "url": "http://52.76.231.243:10011",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-msisdn-check-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.17%",
+    "uptimeDay": "95.17%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "95.17%",
+    "uptimeYear": "95.17%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 17
+    }
   },
   {
     "name": "Fraudster MSISDN Submission API",
     "url": "http://52.76.231.243:10012",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-msisdn-submission-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "95.61%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "95.61%",
+    "uptimeYear": "95.61%",
     "time": 351,
     "timeDay": 351,
     "timeWeek": 351,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 15
+    }
   },
   {
     "name": "Fraudster Bulk Reporting API",
     "url": "http://52.76.231.243:10013",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-bulk-reporting-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.04%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.04%",
+    "uptimeYear": "96.04%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 14
+    }
   },
   {
     "name": "Fraudster Spam Number Verification API",
@@ -207,144 +225,158 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-spam-number-verification-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.48%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "96.48%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 12
+    }
   },
   {
     "name": "Fraudster Blacklist History API",
     "url": "http://52.76.231.243:10015",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-blacklist-history-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.91%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "96.91%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 353,
     "timeDay": 353,
     "timeWeek": 353,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 11
+    }
   },
   {
     "name": "Fraudster Investigation Feedback API",
     "url": "http://52.76.231.243:10016",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-investigation-feedback-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.35%",
+    "uptimeDay": "97.35%",
+    "uptimeWeek": "97.35%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.35%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 9
+    }
   },
   {
     "name": "Fraudster Fake Identity Detection API",
     "url": "http://52.76.231.243:10017",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-fake-identity-detection-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.78%",
+    "uptimeDay": "97.78%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
     "time": 351,
     "timeDay": 351,
     "timeWeek": 351,
     "timeMonth": 351,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 8
+    }
   },
   {
     "name": "Fraudster Email Identification API",
     "url": "http://52.76.231.243:10018",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-email-identification-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.22%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 352,
     "timeDay": 352,
     "timeWeek": 352,
     "timeMonth": 352,
     "timeYear": 352,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 6
+    }
   },
   {
     "name": "GeoScores API",
     "url": "http://52.76.231.243:10020",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "geo-scores-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 394,
     "timeDay": 394,
     "timeWeek": 394,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 5
+    }
   },
   {
     "name": "GeoScores Frontend",
     "url": "http://52.76.231.243:10021",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "geo-scores-frontend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 399,
     "timeDay": 399,
     "timeWeek": 399,
     "timeMonth": 399,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 3
+    }
   },
   {
     "name": "Proto SMS Shield API",
     "url": "http://52.76.231.243:10022/health",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "proto-sms-shield-api",
-    "status": "up",
-    "uptime": "1.24%",
-    "uptimeDay": "1.24%",
-    "uptimeWeek": "1.24%",
-    "uptimeMonth": "1.24%",
-    "uptimeYear": "1.24%",
+    "status": "down",
+    "uptime": "92.38%",
+    "uptimeDay": "92.38%",
+    "uptimeWeek": "92.38%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "92.38%",
     "time": 397,
     "timeDay": 397,
     "timeWeek": 397,
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-05-05": 26
+      "2025-05-05": 28
     }
   },
   {
@@ -352,17 +384,19 @@
     "url": "http://52.76.231.243:10023",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "proto-sms-shield-streamlit",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 406,
     "timeDay": 406,
     "timeWeek": 406,
     "timeMonth": 406,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   }
 ]
