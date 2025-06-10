@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "otp-number-verification-api",
     "status": "up",
-    "uptime": "97.62%",
+    "uptime": "97.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.62%",
+    "uptimeYear": "97.63%",
     "time": 405,
     "timeDay": 459,
     "timeWeek": 412,
@@ -47,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/917v-device-authentication-api.mahiraya.com.ico",
     "slug": "device-authentication-api",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 704,
     "timeDay": 777,
     "timeWeek": 704,
@@ -367,9 +367,9 @@
     "url": "http://52.76.231.243:10022/health",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "proto-sms-shield-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
@@ -379,6 +379,7 @@
     "timeMonth": 403,
     "timeYear": 406,
     "dailyMinutesDown": {
+      "2025-06-10": 0,
       "2025-05-05": 114
     }
   },
@@ -387,9 +388,9 @@
     "url": "http://52.76.231.243:10023",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "proto-sms-shield-streamlit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
@@ -399,6 +400,7 @@
     "timeMonth": 402,
     "timeYear": 407,
     "dailyMinutesDown": {
+      "2025-06-10": 0,
       "2025-05-05": 87
     }
   }
