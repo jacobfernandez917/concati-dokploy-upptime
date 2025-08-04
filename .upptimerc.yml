@@ -3,48 +3,54 @@ owner: jacobfernandez917 # Your GitHub organization or username, where this repo
 repo: concati-dokploy-upptime # The name of this repository
 
 sites:
-  - name: Fraudster Identification API
-    url: http://52.76.231.243:5000
-  - name: OTP + Number Verification API
-    url: http://52.76.231.243:5001
-  - name: Device Authentication API
-    url: https://917v-device-authentication-api.mahiraya.com:5003
-  - name: Device Authentication Frontend
-    url: https://917v-device-authentication-frontend.mahiraya.com:5005
-  - name: Device Swap API
-    url: http://52.76.231.243:5006
+  - name: Caller ID API
+    url: http://52.76.231.243:10043
+  - name: Consent Management API
+    url: http://52.76.231.243:10042
   - name: Device Status API
     url: http://52.76.231.243:5007
-  - name: Quality on Demand API
-    url: http://52.76.231.243:5009
-  - name: Location Insights API
-    url: http://52.76.231.243:5010
+  - name: Device Status API - B
+    url: http://52.76.231.243:10039
+  - name: Device Swap API
+    url: http://52.76.231.243:5006
+  - name: Device Swap API - B
+    url: http://52.76.231.243:10038
+  - name: eSIM Provisioning API
+    url: http://52.76.231.243:10024
+  - name: Fraudster Blacklist History API
+    url: http://52.76.231.243:10015
+  - name: Fraudster Bulk Reporting API
+    url: http://52.76.231.243:10013
+  - name: Fraudster Identification API
+    url: http://52.76.231.243:5000
+  - name: Fraudster Investigation Feedback API
+    url: http://52.76.231.243:10016
   - name: Fraudster MSISDN Check API
     url: http://52.76.231.243:10011
   - name: Fraudster MSISDN Submission API
     url: http://52.76.231.243:10012
-  - name: Fraudster Bulk Reporting API
-    url: http://52.76.231.243:10013
   - name: Fraudster Spam Number Verification API
     url: http://52.76.231.243:10014
-  - name: Fraudster Blacklist History API
-    url: http://52.76.231.243:10015
-  - name: Fraudster Investigation Feedback API
-    url: http://52.76.231.243:10016
-  - name: Fraudster Fake Identity Detection API
-    url: http://52.76.231.243:10017
-  - name: Fraudster Email Identification API
-    url: http://52.76.231.243:10018
   - name: GeoScores API
     url: http://52.76.231.243:10020
   - name: GeoScores Frontend
     url: http://52.76.231.243:10021
-  - name: Proto SMS Shield API
-    url: http://52.76.231.243:10022/health
-    method: GET
-  - name: Proto SMS Shield Streamlit
-    url: http://52.76.231.243:10023
-
+  - name: Location Insights API
+    url: http://52.76.231.243:5010
+  - name: Location Insights API - B
+    url: http://52.76.231.243:10041
+  - name: Number Verification API
+    url: http://52.76.231.243:10028
+  - name: OTP + Number Verification API
+    url: http://52.76.231.243:5001
+  - name: OTP + Number Verification - B
+    url: http://52.76.231.243:10037
+  - name: Quality on Demand API
+    url: http://52.76.231.243:5009
+assignees: # Users to assign downtime issues (optional)
+  - jacobfernandez917
+  - jerwyn917
+  - zfmanalang
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
