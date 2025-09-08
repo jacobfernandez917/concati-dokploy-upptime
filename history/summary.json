@@ -4,10 +4,10 @@
     "url": "http://52.76.231.243:10043",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "caller-id-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
@@ -15,17 +15,19 @@
     "timeWeek": 417,
     "timeMonth": 413,
     "timeYear": 409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "Consent Management API",
     "url": "http://52.76.231.243:10042",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "consent-management-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 423,
@@ -33,17 +35,19 @@
     "timeWeek": 443,
     "timeMonth": 427,
     "timeYear": 423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "Device Identifier API",
     "url": "http://52.76.231.243:5008",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-identifier-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
@@ -51,17 +55,19 @@
     "timeWeek": 420,
     "timeMonth": 419,
     "timeYear": 419,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "Device Status API",
     "url": "http://52.76.231.243:5007",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-status-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 409,
@@ -70,6 +76,7 @@
     "timeMonth": 417,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 90
     }
   },
@@ -78,10 +85,10 @@
     "url": "http://52.76.231.243:10039",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-status-api-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -89,17 +96,19 @@
     "timeWeek": 435,
     "timeMonth": 418,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "Device Swap API",
     "url": "http://52.76.231.243:5006",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-swap-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
     "time": 411,
@@ -108,6 +117,7 @@
     "timeMonth": 423,
     "timeYear": 411,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-08-18": 22,
       "2025-05-05": 76
     }
@@ -117,10 +127,10 @@
     "url": "http://52.76.231.243:10038",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "device-swap-api-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
@@ -128,17 +138,19 @@
     "timeWeek": 446,
     "timeMonth": 418,
     "timeYear": 413,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 1
+    }
   },
   {
     "name": "eSIM Provisioning API",
     "url": "http://52.76.231.243:10024",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "e-sim-provisioning-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.82%",
     "time": 418,
@@ -147,6 +159,7 @@
     "timeMonth": 423,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-08-18": 21,
       "2025-08-10": 19,
       "2025-08-05": 12,
@@ -158,10 +171,10 @@
     "url": "http://52.76.231.243:10015",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-blacklist-history-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 409,
@@ -170,6 +183,7 @@
     "timeMonth": 418,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 85
     }
   },
@@ -178,10 +192,10 @@
     "url": "http://52.76.231.243:10013",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-bulk-reporting-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 409,
@@ -190,6 +204,7 @@
     "timeMonth": 417,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 88
     }
   },
@@ -198,10 +213,10 @@
     "url": "http://52.76.231.243:5000",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-identification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 410,
@@ -210,6 +225,7 @@
     "timeMonth": 416,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 80
     }
   },
@@ -218,10 +234,10 @@
     "url": "http://52.76.231.243:10016",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-investigation-feedback-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 409,
@@ -230,6 +246,7 @@
     "timeMonth": 413,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 84
     }
   },
@@ -238,10 +255,10 @@
     "url": "http://52.76.231.243:10011",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-msisdn-check-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 408,
@@ -250,6 +267,7 @@
     "timeMonth": 416,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 91
     }
   },
@@ -258,10 +276,10 @@
     "url": "http://52.76.231.243:10012",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-msisdn-submission-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 409,
@@ -270,6 +288,7 @@
     "timeMonth": 415,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 90
     }
   },
@@ -278,10 +297,10 @@
     "url": "http://52.76.231.243:10014",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "fraudster-spam-number-verification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 408,
@@ -290,6 +309,7 @@
     "timeMonth": 413,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 87
     }
   },
@@ -298,10 +318,10 @@
     "url": "http://52.76.231.243:10020",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "geo-scores-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 408,
@@ -310,6 +330,7 @@
     "timeMonth": 410,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-05-05": 79
     }
   },
@@ -318,18 +339,19 @@
     "url": "http://52.76.231.243:10021",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "geo-scores-frontend",
-    "status": "up",
-    "uptime": "94.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "94.53%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.52%",
+    "uptimeYear": "94.53%",
     "time": 418,
     "timeDay": 583,
     "timeWeek": 435,
     "timeMonth": 418,
     "timeYear": 418,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-06-30": 220,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
@@ -346,18 +368,19 @@
     "url": "http://52.76.231.243:5010",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "location-insights-api",
-    "status": "up",
-    "uptime": "82.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "82.52%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.48%",
+    "uptimeYear": "82.52%",
     "time": 413,
     "timeDay": 467,
     "timeWeek": 422,
     "timeMonth": 423,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2025-09-08": 1,
       "2025-08-04": 534,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
@@ -391,11 +414,11 @@
     "url": "http://52.76.231.243:10041",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "location-insights-api-b",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 419,
     "timeDay": 607,
@@ -403,6 +426,7 @@
     "timeMonth": 424,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-08-10": 20
     }
   },
@@ -411,9 +435,9 @@
     "url": "http://52.76.231.243:10028",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "number-verification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -422,16 +446,18 @@
     "timeWeek": 438,
     "timeMonth": 416,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 0
+    }
   },
   {
     "name": "OTP + Number Verification API",
     "url": "http://52.76.231.243:5001",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "otp-number-verification-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
@@ -441,6 +467,7 @@
     "timeMonth": 418,
     "timeYear": 410,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-05-07": 108,
       "2025-05-06": 1026,
       "2025-05-05": 100
@@ -451,9 +478,9 @@
     "url": "http://52.76.231.243:10037",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "otp-number-verification-b",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -462,7 +489,9 @@
     "timeWeek": 434,
     "timeMonth": 416,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 0
+    }
   },
   {
     "name": "Quality on Demand API",
@@ -470,11 +499,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "quality-on-demand-api",
     "status": "down",
-    "uptime": "78.34%",
+    "uptime": "78.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.34%",
+    "uptimeYear": "78.39%",
     "time": 410,
     "timeDay": 0,
     "timeWeek": 0,
@@ -520,9 +549,9 @@
     "url": "http://52.76.231.243:10027",
     "icon": "https://icons.duckduckgo.com/ip3/52.76.231.243.ico",
     "slug": "swim-swap-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -531,6 +560,8 @@
     "timeWeek": 428,
     "timeMonth": 425,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-08": 0
+    }
   }
 ]
